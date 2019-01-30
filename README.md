@@ -25,6 +25,21 @@ For reference, these are my preferred settings in Cura.
 
 ### Printer
 
+- Start G Code
+
+        ; Ender 3 Custom Start G-code
+        G28 ; Home all axes
+        G92 x-6.5 Y-13 ; Apply offset specific to MY printer
+        G92 E0 ; Reset Extruder
+        G1 Z2.0 F3000 ; Move Z Axis up little to prevent scratching of Heat Bed
+        G1 X-1 Y20 Z0.3 F5000.0 ; Move to start position
+        G1 X-1 Y200.0 Z0.3 F1500.0 E15 ; Draw the first line
+        G1 X-0.7 Y200.0 Z0.3 F5000.0 ; Move to side a little
+        G1 X-0.7 Y20 Z0.3 F1500.0 E30 ; Draw the second line
+        G92 E0 ; Reset Extruder
+        G1 Z2.0 F3000 ; Move Z Axis up little to prevent scratching of Heat Bed
+        ; End of custom start GCode
+
 - Creality Ender-3
     * X (Width) 220mm
     * Y (Depth) 220mm
