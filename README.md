@@ -67,4 +67,13 @@ For reference, these are my preferred settings in Cura.
     * Initial Temp  195
     * Temperature   195
 
+**Amazon Basics Filament**
+
+- Colours: grey
+- Bed
+    * Initial Temp  70
+    * Temperature   60
+- Nozzle
+    * Initial Temp  220
+    * Temperature   220
 
