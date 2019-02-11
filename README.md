@@ -74,8 +74,8 @@ For reference, these are my preferred settings in Cura.
     * Initial Temp  70
     * Temperature   60
 -Nozzle
-    * Initial Temp  200
-    * Temperature   200
+    * Initial Temp  190
+    * Temperature   190
 
 **Amazon Basics Filament**
 
