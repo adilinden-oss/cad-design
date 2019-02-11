@@ -67,6 +67,16 @@ For reference, these are my preferred settings in Cura.
     * Initial Temp  195
     * Temperature   195
 
+**Hatchbox Filament**
+
+- Colours: orange
+- Bed
+    * Initial Temp  70
+    * Temperature   60
+-Nozzle
+    * Initial Temp  200
+    * Temperature   200
+
 **Amazon Basics Filament**
 
 - Colours: grey
@@ -74,6 +84,6 @@ For reference, these are my preferred settings in Cura.
     * Initial Temp  70
     * Temperature   60
 - Nozzle
-    * Initial Temp  220
-    * Temperature   220
+    * Initial Temp  225
+    * Temperature   225
 
