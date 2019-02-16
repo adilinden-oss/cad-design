@@ -29,7 +29,7 @@ For reference, these are my preferred settings in Cura.
 
         ; Ender 3 Custom Start G-code
         G28 ; Home all axes
-        G92 x-6.5 Y-13 ; Apply offset specific to MY printer
+        G92 X-6.5 Y-13 ; Apply offset specific to MY printer
         G92 E0 ; Reset Extruder
         G1 Z2.0 F3000 ; Move Z Axis up little to prevent scratching of Heat Bed
         G1 X0 Y20 Z0.3 F5000.0 ; Move to start position
