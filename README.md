@@ -15,7 +15,7 @@ For reference, these are my preferred settings in Cura.
     * Build Plate Temperature                   60
     * Build Plate Temperature Initial Layer     70
     * Flow                                      100%
-    * Initial Layer Flow                        103%
+    * Initial Layer Flow                        100%
 - Speed
     * Initial Layer Print Speed                 20mm/s
     * Enable Acceleration Control
@@ -88,8 +88,8 @@ For reference, these are my preferred settings in Cura.
     * Initial Temp  70
     * Temperature   60
 -Nozzle
-    * Initial Temp  190
-    * Temperature   190
+    * Initial Temp  200
+    * Temperature   200
 
 **Amazon Basics Filament**
 
