@@ -22,6 +22,9 @@ For reference, these are my preferred settings in Cura.
     * Print Acceleration                        300mm/s
     * Enable Jerk Control
     * Print Jerk                                5mm/s
+- Support (When enabled)
+    * Support Density                           5% - 15%
+    * Support Z Distance                        ~ 1.1 x layer height
 
 ### Printer
 
@@ -83,7 +86,7 @@ For reference, these are my preferred settings in Cura.
 
 **Hatchbox Filament**
 
-- Colours: orange
+- Colours: orange, silk silver
 - Bed
     * Initial Temp  70
     * Temperature   60
@@ -93,6 +96,7 @@ For reference, these are my preferred settings in Cura.
 
 **Amazon Basics Filament**
 
+- Note: Not impressed with this stuff, random underextrusion.
 - Colours: grey
 - Bed
     * Initial Temp  70
