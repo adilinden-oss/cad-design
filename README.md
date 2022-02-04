@@ -17,11 +17,16 @@ For reference, these are my preferred settings in Cura.
     * Flow                                      100%
     * Initial Layer Flow                        100%
 - Speed
+    * Print Speed                               50mm/s
     * Initial Layer Print Speed                 20mm/s
     * Enable Acceleration Control
     * Print Acceleration                        300mm/s
     * Enable Jerk Control
     * Print Jerk                                5mm/s
+- Travel
+    * Enable Retraction
+    * Retraction Distance                       5.0mm
+    * Retraction Speed                          25mm/s
 - Support (When enabled)
     * Support Density                           5% - 15%
     * Support Z Distance                        ~ 1.1 x layer height
