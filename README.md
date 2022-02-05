@@ -80,7 +80,7 @@ For reference, these are my preferred settings in Cura.
 - Bed
     * Initial Temp  70
     * Temperature   60
--Nozzle
+- Nozzle
     * Initial Temp  210
     * Temperature   200
 
@@ -100,7 +100,7 @@ For reference, these are my preferred settings in Cura.
 - Bed
     * Initial Temp  70
     * Temperature   60
--Nozzle
+- Nozzle
     * Initial Temp  200
     * Temperature   200
 
