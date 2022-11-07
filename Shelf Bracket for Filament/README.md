@@ -1,5 +1,7 @@
 # Shelf Bracket for Filament
 
+Shared on Thingiverse https://www.thingiverse.com/thing:5612727
+
 ## Summary
 
 A shelf beacket I desgined to hold dowling upon which spools of filament are placed. I printed the hollow version and it has held up for quite a number of years now without any issue.
