@@ -8,6 +8,11 @@ I am trying to keep worms for composting. The bin needs air holes. To keep the w
 
 Good bed adhesion is a must else the mesh will be a mess.
 
+## Sources
+
+I designed this in Tinkercad. Feel free to make your own version.
+https://www.tinkercad.com/things/dUr5PqbCXRO
+
 ## Printer Settings
 
 - Printer: Ender 5
