@@ -11,7 +11,9 @@ I choose to make airholes in the lid of the bin. The first step is to drill the 
 ## Sources
 
 I designed this in Tinkercad. Feel free to make your own version.
-https://www.tinkercad.com/things/dUr5PqbCXRO
+
+- Version 1, which is thicker and sturdier: https://www.tinkercad.com/things/dUr5PqbCXRO
+- Version 2, which is thinner and uses less filament: https://www.tinkercad.com/things/1TMyF5RWFyP
 
 ## Printer Settings
 
